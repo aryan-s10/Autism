@@ -149,7 +149,7 @@ Autism/
 
 ```bash
 git clone https://github.com/aryan-s10/Autism.git
-cd <your-repo>/Autism
+cd Autism
 pip install -r requirements.txt
 ```
 
