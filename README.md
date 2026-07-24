@@ -148,8 +148,8 @@ Autism/
 ### Installation
 
 ```bash
-git clone https://github.com/aryan-s10/Autism.git
-cd Autism
+git clone https://github.com/aryan-s10/Autism-Spectrum-Detection.git
+cd Autism-Spectrum-Detection
 pip install -r requirements.txt
 ```
 
