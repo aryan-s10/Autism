@@ -148,7 +148,7 @@ Autism/
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/aryan-s10/Autism.git
 cd <your-repo>/Autism
 pip install -r requirements.txt
 ```
